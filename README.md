@@ -1,5 +1,4 @@
 # Learn C The Hard Way
 
-Watch as I fumble through my second adventure in compiled languages.
+On hold until I get a copy of LCTHW as the free online version has ceased to exist.
 
-Also watch as I fumble through this README...
